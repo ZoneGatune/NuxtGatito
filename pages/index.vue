@@ -8,6 +8,11 @@
       <h2 class="subtitle">
         Nuxt.js project
       </h2>
+	  <h3 class="subtitle">
+        Estar con el gatito es,
+		una necesidad,
+		llamada tras llamada
+      </h3>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
